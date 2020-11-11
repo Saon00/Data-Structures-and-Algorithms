@@ -6,7 +6,7 @@
   * পুল রিকুয়েস্ট করুন। 
   * কোডে ভুল না থাকলে এবং সঠিক হলে অথবা কোন নোট লিখলে সেটি সঠিক হলে তা মার্জ করা হবে। 
 
-[কাজগুলো কঠিন মনে হলে, এখান থেকে সহজে কন্ট্রিবিউট করতে পারবেন! ]
+[কাজগুলো কঠিন মনে হলে, এখান থেকে সহজে কন্ট্রিবিউট করতে পারবেন! ][1]
 
  
 ### কি কি করতে পারেন? 
@@ -21,3 +21,4 @@
 
 
 <!--- Links --->
+[1]:https://github.com/Saon00/Data-Structures-and-Algorithms/issues/new?assignees=Saon00&labels=AddCode%2C+Enhancement&template=add_code.md&title=Add+Code
