@@ -1,6 +1,6 @@
 ## Data Structures & Algorithms 
 
-ওপেন সোর্স অ্যালগরিদম অ্যান্ড ডাটা স্ট্রাকচার নোটবুক
+Open Source Data Structures and ALgorithms Notebook
 > কোন অ্যালগরিদম বা ডাটা স্ট্রাকচার খুঁজতে এই পেজে `ctrl+F` প্রেস করে ইংরেজিতে তার নাম লিখুন।
 
 বিঃদ্রঃ Repository-টি এখনো Under Development-এ আছে। তাই, এখনো কোনো কোড-এর জন্য নোট লেখা হয় নি! ধীরে ধীরে করা হবে।
