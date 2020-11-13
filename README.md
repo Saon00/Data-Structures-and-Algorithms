@@ -14,9 +14,10 @@ Open Source Data Structures and ALgorithms Notebook
 
 ### Algorithms:
 * [Sorting](https://github.com/Saon00/Data_Structures-Algorithms/tree/main/Sorting%20Algorithms)
-  * Bubble Sort ( [Java](https://github.com/Saon00/Data_Structures-Algorithms/blob/main/Sorting%20Algorithms/BubbleSort.java) )
-  * Stable and Unstable Sorting ( [Theory](https://github.com/Saon00/Data_Structures-Algorithms/blob/main/Sorting%20Algorithms/Stable_Unstable.md))
+  * Bubble Sort ([Java](https://github.com/Saon00/Data_Structures-Algorithms/blob/main/Sorting%20Algorithms/BubbleSort.java))
+  * Stable and Unstable Sorting ([Theory](https://github.com/Saon00/Data_Structures-Algorithms/blob/main/Sorting%20Algorithms/Stable_Unstable.md))
   * Selection Sort ([Java](https://github.com/Saon00/Data_Structures-Algorithms/blob/main/Sorting%20Algorithms/SelectionSort.java))
+  * Insertion Sort ([Java](https://github.com/Saon00/Data-Structures-and-Algorithms/blob/main/Sorting%20Algorithms/InsertionSort.java))
 
 ### Data Structures:
 * Will be updated Soon....
