@@ -3,15 +3,20 @@
  * 13 Nov 2020
  * Dhaka, Bangladesh.
  */
-# O9n^2)
+# O(n^2)
 
 import java.util.*;
 public class MainClass_1118 {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
+		System.out.print("How many numbers you want to sort: ");
+		int arrayLimit = scanner.nextInt();
+		int[] intArray = new int[arrayLimit];
 
-		int[] intArray = { 20, 35, -15, 7, 55, 1, -22 };
+		for (int i = 0; i < arrayLimit; i++) {
+			intArray[i] = scanner.nextInt();
+		}
 
 		for (int firstIndex = 1; firstIndex < intArray.length; firstIndex++) {
 			int newElement = intArray[firstIndex];
