@@ -18,6 +18,7 @@ Open Source Data Structures and ALgorithms Notebook
   * Stable and Unstable Sorting ([Theory](https://github.com/Saon00/Data_Structures-Algorithms/blob/main/Sorting%20Algorithms/Stable_Unstable.md))
   * Selection Sort ([Java](https://github.com/Saon00/Data_Structures-Algorithms/blob/main/Sorting%20Algorithms/SelectionSort.java))
   * Insertion Sort ([Java](https://github.com/Saon00/Data-Structures-and-Algorithms/blob/main/Sorting%20Algorithms/InsertionSort.java))
+  * Shell Sort ([Java](https://github.com/Saon00/Data-Structures-and-Algorithms/blob/main/Sorting%20Algorithms/ShellSort.java))
 
 ### Data Structures:
 * Will be updated Soon....
