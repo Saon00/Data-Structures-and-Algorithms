@@ -19,6 +19,9 @@ Open Source Data Structures and ALgorithms Notebook
   * Selection Sort ([Java](https://github.com/Saon00/Data_Structures-Algorithms/blob/main/Sorting%20Algorithms/SelectionSort.java))
   * Insertion Sort ([Java](https://github.com/Saon00/Data-Structures-and-Algorithms/blob/main/Sorting%20Algorithms/InsertionSort.java))
   * Shell Sort ([Java](https://github.com/Saon00/Data-Structures-and-Algorithms/blob/main/Sorting%20Algorithms/ShellSort.java))
+* [Dynamic Programming](/DynamicProgramming/)
+  * 0-1 Knapsack Problem - Recursion ([Java](/DynamicProgramming/KnapsackProblemZeroOne.java/))
+  * 0-1 Knapsack Problem - DP ([Java](/DynamicProgramming/KnapsackProblemZeroOneDP.java/))
 
 ### Data Structures:
 * Will be updated Soon....
