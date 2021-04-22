@@ -25,7 +25,10 @@ Open Source Data Structures and ALgorithms Notebook
   * Fibonacci-Memoization - DP ([Java](/DynamicProgramming/FibonacciMemoization.java/))
 
 ### Data Structures:
-* Will be updated Soon....
+* Lists
+  * Singly LinkedList ([Java](/DataStructures/SinglyLinkedList/))
+  * Doubly LinkedList ([Java](/DataStructures/DoublyLinkedLIst/))
+  * LinkedList ([Java](/DataStructures/LinkedListExamples/))
 
 ## License
 [GNU GENERAL PUBLIC LICENSE](/LICENSE)
