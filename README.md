@@ -26,7 +26,7 @@ Open Source Data Structures and ALgorithms Notebook
 * [Backtracking](/Backtracking/)
   * NQueens Problem ([Java](/Backtracking/NQueens.java/))
 * [SearchAlgorithms](/SearchAlgorithms/)
-  * NQueens Problem ([Java](/SearchAlgorithms/BinarySearch.java/))
+  * Binary Search Problem ([Java](/SearchAlgorithms/BinarySearch.java/))
   
 ### Data Structures:
 * Lists
