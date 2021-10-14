@@ -23,7 +23,11 @@ Open Source Data Structures and ALgorithms Notebook
   * 0-1 Knapsack Problem - Recursion ([Java](/DynamicProgramming/KnapsackProblemZeroOne.java/))
   * 0-1 Knapsack Problem - DP ([Java](/DynamicProgramming/KnapsackProblemZeroOneDP.java/))
   * Fibonacci-Memoization - DP ([Java](/DynamicProgramming/FibonacciMemoization.java/))
-
+* [Backtracking](/Backtracking/)
+  * NQueens Problem ([Java](/Backtracking/NQueens.java/))
+* [SearchAlgorithms](/SearchAlgorithms/)
+  * NQueens Problem ([Java](/SearchAlgorithms/BinarySearch.java/))
+  
 ### Data Structures:
 * Lists
   * Singly LinkedList ([Java](/DataStructures/SinglyLinkedList/))
