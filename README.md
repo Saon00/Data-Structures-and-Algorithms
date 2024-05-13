@@ -33,6 +33,9 @@ Open Source Data Structures and ALgorithms Notebook
   * Singly LinkedList ([Java](/DataStructures/SinglyLinkedList/))
   * Doubly LinkedList ([Java](/DataStructures/DoublyLinkedLIst/))
   * LinkedList ([Java](/DataStructures/LinkedListExamples/))
+* Stacks
+  * Detailed ([Java](/DataStructures/StacksArray/))
+  * Shortened ([Java](/DataStructures/StacksArray/StackPractise.java/))
 
 ## License
 [GNU GENERAL PUBLIC LICENSE](/LICENSE)
